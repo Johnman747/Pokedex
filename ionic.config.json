@@ -1,0 +1,7 @@
+{
+  "name": "PokemonTeam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

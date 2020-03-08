@@ -1,0 +1,21 @@
+.pokemon_id{
+    display: inline-block;
+    margin: 0 4vw;
+}
+
+.pokemon_name{
+    display: inline-block;
+    border-collapse: collapse;
+}
+.caught_button{
+    display: inline-block;
+    float: right;
+    margin: 0 4vw;
+}
+
+.catch_btn{
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+    margin-top: 15px;
+}
